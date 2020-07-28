@@ -1,6 +1,6 @@
 # Getting and Cleaning Data - Course Project
 
-This codebook explain, at least try, how the tidy dataset was obtained.
+This readme file explain, at least try, how the tidy dataset was obtained.
 
 First of all, we download the file using the link that is given in the project description.
 
